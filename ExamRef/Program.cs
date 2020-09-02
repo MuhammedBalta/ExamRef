@@ -9,7 +9,7 @@ namespace ExamRef
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Parallel_For.Run();
+            Task_Child.Run();
         }
     }
 }
